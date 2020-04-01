@@ -9,6 +9,5 @@ ctrip:
 
 server:
   port: 8080
-
 logging:
-  file: /opt/logs/100003171/apollo-configservice.log
+  file: /Users/wanglijun/data/logs/100003171/apollo-configservice.log
